@@ -1,6 +1,6 @@
 # Paypal-com-node-e-next
 
-Implementação do método de pagamento utilizando o paypal com plataforma. Há dois fronts, sendo o **frontend** a apricação realizada em next, constumizada com alguns produtos para exemplo e um carrossel feito sem nenhum framework, e o **front** , uma amostra de funcionalidade apenas com um botão de envio para testar a implementação no vanilla.
+Implementação do método de pagamento utilizando o paypal como plataforma. Há dois fronts, sendo o **frontend** a aplicação realizada em next, customizada com alguns produtos de  exemplo e um carrossel feito sem nenhum framework, e o **front** , uma amostra de funcionalidade apenas com um botão de envio para testar a implementação no vanilla.
 ## Frontend com next: 
 
 <div style='text-align: center'>
