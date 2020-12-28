@@ -61,7 +61,7 @@ const Produtos=()=>{
                     </BlocoA>
                     <BlocoB>
                         <img src={tenis} className="foto1"/>
-                        <button class="button" onClick={()=>{handleSubmit(valor)}} type="submit">Enviar</button>
+                        <button className="button" onClick={()=>{handleSubmit(valor)}} type="submit">Enviar</button>
                     </BlocoB>
     
                 </Card>

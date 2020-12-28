@@ -4,11 +4,8 @@ import {
     Body,
     BlocoConteudo,
     BodyContainer} from '../../styles/estilo/carrosse'
-import { Canvas, useFrame } from 'react-three-fiber'
 import Nav from './nav'
 import Fot from '../fotos/fot1.png'
-
-import animationData from './travel-tickets.json'
 const Carrossel =()=>{
     const bar=useRef([])
 

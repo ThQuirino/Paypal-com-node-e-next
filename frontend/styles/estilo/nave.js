@@ -10,9 +10,8 @@ const Container =styled.div`
     top:0;
     width:100vw;
     box-sizing:border-box;
-   text-align:center;
-   align-items:center;
-  
+    text-align:center;
+    align-items:center;
     li{
         display:inline;
         &:hover>a{
@@ -24,7 +23,7 @@ const Container =styled.div`
         top:0;
         @media(max-width:500px ){
         display:none;
-   }
+        }
     }
     a{
         

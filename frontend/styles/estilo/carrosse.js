@@ -1,11 +1,5 @@
 import styled,{keyframes} from 'styled-components'
-const keyfr=keyframes`
-    from {
-        transform:scale(0.9)
-    }to{
-        transform:scale(1)
-    }
-`;
+
 
 const Container=styled.div`
     display:flex;
